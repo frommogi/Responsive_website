@@ -1,7 +1,7 @@
 # Responsive_website
 First week project (web page) 
  
-##Prerequisites
+## Prerequisites
 
 * Chrome
 * Mozilla Firefox
@@ -13,7 +13,7 @@ First week project (web page)
 
 	>Webpage used HTML and CSS to built this
 
-
+ ## Built with grid, flex, 
 
 # Table of Content 
 
