@@ -9,13 +9,13 @@ First week project (web page)
 
 * **Not Comtapible with Internet Explorer**
 
-#Creative Agency
+# Creative Agency
 
 	>Webpage used HTML and CSS to built this
 
 
 
-#Table of Content 
+# Table of Content 
 
 * Welcome
 * Services 
