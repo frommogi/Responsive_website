@@ -13,7 +13,8 @@ First week project (web page)
 
 	>Webpage used HTML and CSS to built this
 
- ## Built with grid, flex, 
+ #### Built css with grid, flex.
+ 
 
 # Table of Content 
 
